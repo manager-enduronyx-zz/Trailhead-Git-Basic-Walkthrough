@@ -1,4 +1,4 @@
 # Trailhead-Git-Basic-Walkthrough
-Following through the trailhead
+Following through the trailhead -- adding changes to line 2
 
 I am adding changes to this file in the local repository.
